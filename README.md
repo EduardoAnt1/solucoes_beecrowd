@@ -30,4 +30,5 @@
 [2739](https://www.beecrowd.com.br/judge/pt/problems/view/2739) - [Dia de Pagamento](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2739.sql)  
 [2740](https://www.beecrowd.com.br/judge/pt/problems/view/2740) - [Liga](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2740.sql)  
 [2741](https://www.beecrowd.com.br/judge/pt/problems/view/2741) - [Notas dos Alunos](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2741.sql)  
-[2742](https://www.beecrowd.com.br/judge/pt/problems/view/2742) - [O Multiverso de Richard](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2742.sql) 
+[2742](https://www.beecrowd.com.br/judge/pt/problems/view/2742) - [O Multiverso de Richard](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2742.sql)  
+[2743](https://www.beecrowd.com.br/judge/pt/problems/view/2743) - [Quantidade de Caracteres](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2743.sql)  
