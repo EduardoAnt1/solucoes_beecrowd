@@ -32,3 +32,5 @@
 [2741](https://www.beecrowd.com.br/judge/pt/problems/view/2741) - [Notas dos Alunos](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2741.sql)  
 [2742](https://www.beecrowd.com.br/judge/pt/problems/view/2742) - [O Multiverso de Richard](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2742.sql)  
 [2743](https://www.beecrowd.com.br/judge/pt/problems/view/2743) - [Quantidade de Caracteres](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2743.sql)  
+[2744](https://www.beecrowd.com.br/judge/pt/problems/view/2744) - [Senhas](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2744.sql)  
+
