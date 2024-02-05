@@ -1,6 +1,7 @@
 # SOLUÇÕES BEE CROWD
 
 ## --SQL--
+#### Enunciado - Solução
 [2602](https://www.beecrowd.com.br/judge/pt/problems/view/2602) - [select basico](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2602.sql)  
 [2603](https://www.beecrowd.com.br/judge/pt/problems/view/2603) - [Endereço dos Clientes](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2603.sql)  
 [2604](https://www.beecrowd.com.br/judge/pt/problems/view/2604) - [Menores que 10 ou Maiores que 100](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2604.sql)  
