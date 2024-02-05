@@ -28,4 +28,4 @@
 [2738](https://www.beecrowd.com.br/judge/pt/problems/view/2738) - [Concurso](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2738.sql)  
 [2739](https://www.beecrowd.com.br/judge/pt/problems/view/2739) - [Dia de Pagamento](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2739.sql)  
 [2740](https://www.beecrowd.com.br/judge/pt/problems/view/2740) - [Liga](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2740.sql)  
-
+[2741](https://www.beecrowd.com.br/judge/pt/problems/view/2741) - [Notas dos Alunos](https://github.com/EduardoAnt1/solucoes_beecrowd/blob/main/sql/2741.sql)  
